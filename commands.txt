@@ -1,0 +1,8 @@
+/help
+/start
+/stop
+/status
+/say أهلا
+/watch
+/timeout 16m
+/message متتتتت
